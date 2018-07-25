@@ -1,4 +1,0 @@
-setuptools==40.0.0
-robobrowser
-flask
-newsapi-python
