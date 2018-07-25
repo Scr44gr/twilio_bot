@@ -1,6 +1,5 @@
 setuptools==40.0.0
 lxml
 robobrowser
-twilio
 flask
 newsapi-python
